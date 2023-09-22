@@ -41,13 +41,14 @@ Configuration: Configure the application settings, including database connection
 Database Setup: Initialize the database schema using the provided SQL script.
 
 Dependencies: Install the required dependencies by running:
-
 bash
   $npm install
+
 Start the Application: Launch the application using:
 
 _ _bash
-  npm start
+  $npm start
+
 Access the Application: Open a web browser and navigate to http://localhost:3000 to access the APM Invoice System.
 
 Usage
@@ -69,4 +70,3 @@ This project is licensed under the MIT License.
 
 Acknowledgments
 We would like to thank the open-source community for their contributions and support in developing the APM Invoice System.
-
